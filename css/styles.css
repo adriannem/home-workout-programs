@@ -7,3 +7,17 @@ body {
     font-family: Tahoma, Geneva, sans-serif;
     
 }
+
+a {
+  color: darkturquoise;
+}
+
+.standout {
+  border: 10px solid gold;
+}
+
+.fancy {
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+  font-size: 40px;
+}
+  
